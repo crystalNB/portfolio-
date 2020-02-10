@@ -2,8 +2,11 @@
 
 body {
   font-family: 'Indie Flower', cursive;  
-  background-image: url{"https://github.com/crystalNB/portfolio-/blob/master/romantic-purple-background-with-cute-bow-and-vector-3289103.jpg?raw=true"};
-  }
+  background-image: url("https://github.com/crystalNB/portfolio-/blob/master/romantic-purple-background-with-cute-bow-and-vector-3289103.jpg?raw=true");
+  background-repeat: no-repeat;
+}
+
+
 
 h1 {
  font-style; italic;  
