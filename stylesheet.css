@@ -9,6 +9,8 @@ h1 {
  font-style; italic;  
   font-size: 50px;
   color:#B536B9;
+  border: 5px groove purple;
+  
 }
 
 p {
