@@ -8,7 +8,9 @@ body {
   background-size: cover;
 }
 
-
+.bigheading {
+  color:#EACBCB;
+  font-size: 50px;
 
 h1 {
  font-style; italic;  
