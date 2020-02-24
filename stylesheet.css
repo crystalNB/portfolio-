@@ -24,4 +24,27 @@ h1 {
 
 p {
   color:#DDA5DF;
+ 
 }
+  .navbar {
+    overflow: hidden;
+    background-color:#E118A4;
+      
+  }
+  
+  .navbar a {
+   float: left; 
+   display: block;
+   color:#ECB8DC;
+   text-align: center;
+   padding: 14px 16px;
+   text-decoration: none;
+   font-size: 16px;
+  }
+  
+  
+.navbar a:hover {
+  background-color:#FBD6F0;
+  font-color:#BF188C;
+  }
+  
