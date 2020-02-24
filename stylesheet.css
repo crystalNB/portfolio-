@@ -48,3 +48,8 @@ p {
   font-color:#BF188C;
   }
   
+  .navbar a.active {
+    background-color:#571342;
+    color: white;
+  }
+  
