@@ -19,9 +19,17 @@ h1 {
   color:#B536B9;
   border: 5px outset purple;
   float:center;
+  animation-name: anima;
+  animation-duration: 2s;
+  animation-iteration-count: infinite 
  
   
 }
+
+@keyframes anima
+0%{color:pink;}
+50%{color:yellow;}
+100%{color:pink;}
 
 p {
   color:#DDA5DF;
